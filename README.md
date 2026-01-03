@@ -1,2 +1,2 @@
 # webdesign-me.github.io
-This page highlights the top 3 ranked movies of all time.
+These are 3 films frequently ranked among the best of all time.
